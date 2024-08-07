@@ -22,7 +22,7 @@
 
 ##
 
-🔥 Sou Desenvolvedor Front-end Jr
+🔥 Sou estudante em Desenvolvimento Full Stack
 
 🔭 Atualmente estou pesquisando trabalho!
 
