@@ -28,7 +28,7 @@
 
 🔭 Atualmente estou pesquisando trabalho!
 
-💬 Minhas stacks JavaScript, HTML, CSS, Node.js, TailwindCSS, BootStrap.
+💬 Minhas stacks HTML, CSS, JavaScript, Java, Node.js, Typescript, React.js, Vue.js, Next.js, TailwindCSS
 
 👨‍💻 Eu amo Programação
 
